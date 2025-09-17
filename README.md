@@ -15,10 +15,8 @@
   - Built an **E-commerce Web Application** with Add to Cart, Authentication, and Product Display  
 
 - **Hackathon Projects – SIH 2025**  
-  - PostalVision: AI-powered Post Office Monitoring  
   - Smart Classroom Management Software  
-  - AI-based Electricity Demand Forecasting  
-  - Coal Mine Safety & Productivity Management System  
+  - Post Office Management System.
 
 ---
 
