@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Shiva Rama Krishna Ganji  
-
+ 
 🎯 **About Me**  
 - 🎓 B.Tech 3rd Year (Electrical & Electronics Engineering)  
 - 💻 Java DSA & Full Stack Developer (HTML, CSS, JavaScript, React, Node.js, MySQL)  
